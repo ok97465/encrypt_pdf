@@ -1,0 +1,2 @@
+QDarkStyle
+PyQt5

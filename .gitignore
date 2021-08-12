@@ -127,3 +127,28 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea/
+
+# Vscode
+.vscode/
+
+# Archive
+*.npz
+*.pkl
+*.mat
+*.tsg
+*.dat
+*.pdf
+*.jpg
+*.tsg_pos
+*.pptx
+*.docx
+*.pptx_
+*.hwp
+*.db
+*.ico
+
+# pyinstaller
+/build
